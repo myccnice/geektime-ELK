@@ -1,3 +1,6 @@
+# 历史版本下载地址
+- https://www.elastic.co/cn/downloads/past-releases
+
 # Kibana 的安装与界面快速浏览
 ## 课程Demo
 ```
