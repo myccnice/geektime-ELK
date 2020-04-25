@@ -7,6 +7,9 @@
 #启动kibana
 bin/kibana
 
+#后台启动
+bin/kibana &
+
 #查看插件
 bin/kibana-plugin list
 
